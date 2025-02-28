@@ -1,0 +1,424 @@
+{
+  "_id": "679fd143c4934812621d6387",
+  "familyName": "Smith Family",
+  "year": 2025,
+  "createdAt": "2025-02-02T20:10:43.599Z",
+  "categories": [
+    {
+      "_id": "679fd143c4934812621d6388",
+      "name": "Food",
+      "defaultMonthlyBudget": 200,
+      "createdAt": "2025-02-02T20:10:43.600Z",
+      "monthlyBudgets": [
+        {
+          "month": "2025-01",
+          "startingBudget": 200,
+          "plannedBudget": 200,
+          "expensesTotal": 114,
+          "budgetLeft": 86,
+          "lastRecalculatedAt": "2025-02-02T20:10:43.600Z"
+        },
+        {
+          "month": "2025-02",
+          "startingBudget": 286,
+          "plannedBudget": 200,
+          "expensesTotal": 170,
+          "budgetLeft": 116,
+          "lastRecalculatedAt": "2025-02-02T20:10:43.600Z"
+        },
+        {
+          "month": "2025-03",
+          "startingBudget": 316,
+          "plannedBudget": 200,
+          "expensesTotal": 97,
+          "budgetLeft": 219,
+          "lastRecalculatedAt": "2025-02-02T20:10:43.600Z"
+        },
+        {
+          "month": "2025-04",
+          "startingBudget": 419,
+          "plannedBudget": 200,
+          "expensesTotal": 255,
+          "budgetLeft": 164,
+          "lastRecalculatedAt": "2025-02-02T20:10:43.600Z"
+        },
+        {
+          "month": "2025-05",
+          "startingBudget": 364,
+          "plannedBudget": 200,
+          "expensesTotal": 205,
+          "budgetLeft": 159,
+          "lastRecalculatedAt": "2025-02-02T20:10:43.600Z"
+        },
+        {
+          "month": "2025-06",
+          "startingBudget": 359,
+          "plannedBudget": 200,
+          "expensesTotal": 276,
+          "budgetLeft": 83,
+          "lastRecalculatedAt": "2025-02-02T20:10:43.600Z"
+        },
+        {
+          "month": "2025-07",
+          "startingBudget": 283,
+          "plannedBudget": 200,
+          "expensesTotal": 254,
+          "budgetLeft": 29,
+          "lastRecalculatedAt": "2025-02-02T20:10:43.600Z"
+        },
+        {
+          "month": "2025-08",
+          "startingBudget": 229,
+          "plannedBudget": 200,
+          "expensesTotal": 89,
+          "budgetLeft": 140,
+          "lastRecalculatedAt": "2025-02-02T20:10:43.600Z"
+        },
+        {
+          "month": "2025-09",
+          "startingBudget": 340,
+          "plannedBudget": 200,
+          "expensesTotal": 116,
+          "budgetLeft": 224,
+          "lastRecalculatedAt": "2025-02-02T20:10:43.600Z"
+        },
+        {
+          "month": "2025-10",
+          "startingBudget": 424,
+          "plannedBudget": 200,
+          "expensesTotal": 78,
+          "budgetLeft": 346,
+          "lastRecalculatedAt": "2025-02-02T20:10:43.600Z"
+        },
+        {
+          "month": "2025-11",
+          "startingBudget": 546,
+          "plannedBudget": 200,
+          "expensesTotal": 410,
+          "budgetLeft": 136,
+          "lastRecalculatedAt": "2025-02-02T20:10:43.600Z"
+        },
+        {
+          "month": "2025-12",
+          "startingBudget": 336,
+          "plannedBudget": 200,
+          "expensesTotal": 122,
+          "budgetLeft": 214,
+          "lastRecalculatedAt": "2025-02-02T20:10:43.600Z"
+        }
+      ]
+    },
+    {
+      "_id": "679fd143c4934812621d6389",
+      "name": "Entertainment",
+      "defaultMonthlyBudget": 100,
+      "createdAt": "2025-02-02T20:10:43.600Z",
+      "monthlyBudgets": [
+        {
+          "month": "2025-01",
+          "startingBudget": 100,
+          "plannedBudget": 100,
+          "expensesTotal": 83,
+          "budgetLeft": 17,
+          "lastRecalculatedAt": "2025-02-02T20:10:43.600Z"
+        },
+        {
+          "month": "2025-02",
+          "startingBudget": 117,
+          "plannedBudget": 100,
+          "expensesTotal": 66,
+          "budgetLeft": 51,
+          "lastRecalculatedAt": "2025-02-02T20:10:43.600Z"
+        },
+        {
+          "month": "2025-03",
+          "startingBudget": 151,
+          "plannedBudget": 100,
+          "expensesTotal": 83,
+          "budgetLeft": 68,
+          "lastRecalculatedAt": "2025-02-02T20:10:43.600Z"
+        },
+        {
+          "month": "2025-04",
+          "startingBudget": 168,
+          "plannedBudget": 100,
+          "expensesTotal": 149,
+          "budgetLeft": 19,
+          "lastRecalculatedAt": "2025-02-02T20:10:43.600Z"
+        },
+        {
+          "month": "2025-05",
+          "startingBudget": 119,
+          "plannedBudget": 100,
+          "expensesTotal": 27,
+          "budgetLeft": 92,
+          "lastRecalculatedAt": "2025-02-02T20:10:43.600Z"
+        },
+        {
+          "month": "2025-06",
+          "startingBudget": 192,
+          "plannedBudget": 100,
+          "expensesTotal": 58,
+          "budgetLeft": 134,
+          "lastRecalculatedAt": "2025-02-02T20:10:43.600Z"
+        },
+        {
+          "month": "2025-07",
+          "startingBudget": 234,
+          "plannedBudget": 100,
+          "expensesTotal": 104,
+          "budgetLeft": 130,
+          "lastRecalculatedAt": "2025-02-02T20:10:43.600Z"
+        },
+        {
+          "month": "2025-08",
+          "startingBudget": 230,
+          "plannedBudget": 100,
+          "expensesTotal": 87,
+          "budgetLeft": 143,
+          "lastRecalculatedAt": "2025-02-02T20:10:43.600Z"
+        },
+        {
+          "month": "2025-09",
+          "startingBudget": 243,
+          "plannedBudget": 100,
+          "expensesTotal": 151,
+          "budgetLeft": 92,
+          "lastRecalculatedAt": "2025-02-02T20:10:43.600Z"
+        },
+        {
+          "month": "2025-10",
+          "startingBudget": 192,
+          "plannedBudget": 100,
+          "expensesTotal": 164,
+          "budgetLeft": 28,
+          "lastRecalculatedAt": "2025-02-02T20:10:43.600Z"
+        },
+        {
+          "month": "2025-11",
+          "startingBudget": 128,
+          "plannedBudget": 100,
+          "expensesTotal": 110,
+          "budgetLeft": 18,
+          "lastRecalculatedAt": "2025-02-02T20:10:43.600Z"
+        },
+        {
+          "month": "2025-12",
+          "startingBudget": 118,
+          "plannedBudget": 100,
+          "expensesTotal": 97,
+          "budgetLeft": 21,
+          "lastRecalculatedAt": "2025-02-02T20:10:43.600Z"
+        }
+      ]
+    },
+    {
+      "_id": "679fd143c4934812621d638a",
+      "name": "Utilities",
+      "defaultMonthlyBudget": 150,
+      "createdAt": "2025-02-02T20:10:43.600Z",
+      "monthlyBudgets": [
+        {
+          "month": "2025-01",
+          "startingBudget": 150,
+          "plannedBudget": 150,
+          "expensesTotal": 110,
+          "budgetLeft": 40,
+          "lastRecalculatedAt": "2025-02-02T20:10:43.600Z"
+        },
+        {
+          "month": "2025-02",
+          "startingBudget": 190,
+          "plannedBudget": 150,
+          "expensesTotal": 34,
+          "budgetLeft": 156,
+          "lastRecalculatedAt": "2025-02-02T20:10:43.600Z"
+        },
+        {
+          "month": "2025-03",
+          "startingBudget": 306,
+          "plannedBudget": 150,
+          "expensesTotal": 235,
+          "budgetLeft": 71,
+          "lastRecalculatedAt": "2025-02-02T20:10:43.600Z"
+        },
+        {
+          "month": "2025-04",
+          "startingBudget": 221,
+          "plannedBudget": 150,
+          "expensesTotal": 135,
+          "budgetLeft": 86,
+          "lastRecalculatedAt": "2025-02-02T20:10:43.600Z"
+        },
+        {
+          "month": "2025-05",
+          "startingBudget": 236,
+          "plannedBudget": 150,
+          "expensesTotal": 182,
+          "budgetLeft": 54,
+          "lastRecalculatedAt": "2025-02-02T20:10:43.600Z"
+        },
+        {
+          "month": "2025-06",
+          "startingBudget": 204,
+          "plannedBudget": 150,
+          "expensesTotal": 72,
+          "budgetLeft": 132,
+          "lastRecalculatedAt": "2025-02-02T20:10:43.600Z"
+        },
+        {
+          "month": "2025-07",
+          "startingBudget": 282,
+          "plannedBudget": 150,
+          "expensesTotal": 183,
+          "budgetLeft": 99,
+          "lastRecalculatedAt": "2025-02-02T20:10:43.600Z"
+        },
+        {
+          "month": "2025-08",
+          "startingBudget": 249,
+          "plannedBudget": 150,
+          "expensesTotal": 213,
+          "budgetLeft": 36,
+          "lastRecalculatedAt": "2025-02-02T20:10:43.600Z"
+        },
+        {
+          "month": "2025-09",
+          "startingBudget": 186,
+          "plannedBudget": 150,
+          "expensesTotal": 108,
+          "budgetLeft": 78,
+          "lastRecalculatedAt": "2025-02-02T20:10:43.600Z"
+        },
+        {
+          "month": "2025-10",
+          "startingBudget": 228,
+          "plannedBudget": 150,
+          "expensesTotal": 69,
+          "budgetLeft": 159,
+          "lastRecalculatedAt": "2025-02-02T20:10:43.600Z"
+        },
+        {
+          "month": "2025-11",
+          "startingBudget": 309,
+          "plannedBudget": 150,
+          "expensesTotal": 55,
+          "budgetLeft": 254,
+          "lastRecalculatedAt": "2025-02-02T20:10:43.600Z"
+        },
+        {
+          "month": "2025-12",
+          "startingBudget": 404,
+          "plannedBudget": 150,
+          "expensesTotal": 43,
+          "budgetLeft": 361,
+          "lastRecalculatedAt": "2025-02-02T20:10:43.600Z"
+        }
+      ]
+    },
+    {
+      "_id": "679fd143c4934812621d638b",
+      "name": "Transportation",
+      "defaultMonthlyBudget": 120,
+      "createdAt": "2025-02-02T20:10:43.600Z",
+      "monthlyBudgets": [
+        {
+          "month": "2025-01",
+          "startingBudget": 120,
+          "plannedBudget": 120,
+          "expensesTotal": 52,
+          "budgetLeft": 68,
+          "lastRecalculatedAt": "2025-02-02T20:10:43.600Z"
+        },
+        {
+          "month": "2025-02",
+          "startingBudget": 188,
+          "plannedBudget": 120,
+          "expensesTotal": 168,
+          "budgetLeft": 20,
+          "lastRecalculatedAt": "2025-02-02T20:10:43.600Z"
+        },
+        {
+          "month": "2025-03",
+          "startingBudget": 140,
+          "plannedBudget": 120,
+          "expensesTotal": 94,
+          "budgetLeft": 46,
+          "lastRecalculatedAt": "2025-02-02T20:10:43.600Z"
+        },
+        {
+          "month": "2025-04",
+          "startingBudget": 166,
+          "plannedBudget": 120,
+          "expensesTotal": 30,
+          "budgetLeft": 136,
+          "lastRecalculatedAt": "2025-02-02T20:10:43.600Z"
+        },
+        {
+          "month": "2025-05",
+          "startingBudget": 256,
+          "plannedBudget": 120,
+          "expensesTotal": 53,
+          "budgetLeft": 203,
+          "lastRecalculatedAt": "2025-02-02T20:10:43.600Z"
+        },
+        {
+          "month": "2025-06",
+          "startingBudget": 323,
+          "plannedBudget": 120,
+          "expensesTotal": 89,
+          "budgetLeft": 234,
+          "lastRecalculatedAt": "2025-02-02T20:10:43.600Z"
+        },
+        {
+          "month": "2025-07",
+          "startingBudget": 354,
+          "plannedBudget": 120,
+          "expensesTotal": 170,
+          "budgetLeft": 184,
+          "lastRecalculatedAt": "2025-02-02T20:10:43.600Z"
+        },
+        {
+          "month": "2025-08",
+          "startingBudget": 304,
+          "plannedBudget": 120,
+          "expensesTotal": 19,
+          "budgetLeft": 285,
+          "lastRecalculatedAt": "2025-02-02T20:10:43.600Z"
+        },
+        {
+          "month": "2025-09",
+          "startingBudget": 405,
+          "plannedBudget": 120,
+          "expensesTotal": 40,
+          "budgetLeft": 365,
+          "lastRecalculatedAt": "2025-02-02T20:10:43.600Z"
+        },
+        {
+          "month": "2025-10",
+          "startingBudget": 485,
+          "plannedBudget": 120,
+          "expensesTotal": 346,
+          "budgetLeft": 139,
+          "lastRecalculatedAt": "2025-02-02T20:10:43.600Z"
+        },
+        {
+          "month": "2025-11",
+          "startingBudget": 259,
+          "plannedBudget": 120,
+          "expensesTotal": 38,
+          "budgetLeft": 221,
+          "lastRecalculatedAt": "2025-02-02T20:10:43.600Z"
+        },
+        {
+          "month": "2025-12",
+          "startingBudget": 341,
+          "plannedBudget": 120,
+          "expensesTotal": 289,
+          "budgetLeft": 52,
+          "lastRecalculatedAt": "2025-02-02T20:10:43.600Z"
+        }
+      ]
+    }
+  ]
+}

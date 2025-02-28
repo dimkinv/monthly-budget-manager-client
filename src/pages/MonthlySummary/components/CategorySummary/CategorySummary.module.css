@@ -1,0 +1,38 @@
+.container{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    padding-block: 16px;
+    padding-inline: 16px;
+}   
+
+.title{
+    font-weight: bold;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
+
+.title > div {
+    height: 16px;
+    width: 16px;
+    border: 1px solid var(--color-400);
+}
+
+.title > svg {
+    margin-inline-start: auto;
+}
+
+.summary{
+    margin-block-start: 12px;
+    display:flex;
+
+    span:last-child{
+        margin-inline-start: auto;
+        color: var(--color-400);
+    }
+}
+
+.progress{
+    margin-block-start: 10px;
+}
