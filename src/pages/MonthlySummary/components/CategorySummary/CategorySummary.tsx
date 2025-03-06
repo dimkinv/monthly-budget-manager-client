@@ -1,6 +1,7 @@
 import { useState } from 'react';
 import { Collapsible } from '../../../../assets/icons/Collapsible';
 import { Progress } from '../../../../components/Progress/Progress';
+import { curr, i18n } from '../../../../i17n';
 import styles from './CategorySummary.module.css';
 
 export const CategorySummary: React.FC<React.PropsWithChildren> = () => {
@@ -13,8 +14,8 @@ export const CategorySummary: React.FC<React.PropsWithChildren> = () => {
             <Collapsible direction={collapsibleDirection} />
         </button>
         <section className={styles.summary}>
-            <span>₪2,000 / חודש</span>
-            <span>נותר: ₪800</span>
+            <span>{curr`2000`} / {i18n('monthly')}</span>
+            <span>{i18n('left')}: {curr`800`}</span>
         </section>
         <Progress className={styles.progress} current={1200} total={2000} />
     </div>);

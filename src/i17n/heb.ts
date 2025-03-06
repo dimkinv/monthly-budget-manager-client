@@ -5,5 +5,7 @@ export const heb = {
     general_budget: 'תקציב',
     general_expenses: 'הוצאות',
     general_leftovers: 'נותר',
-
+    currency: '₪',
+    monthly: 'חודשי',
+    left: 'נותר'
 }
